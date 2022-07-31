@@ -1,0 +1,7 @@
+POST https://tools.ecpe.nu.ac.th/network/api/login HTTP/1.1
+Content-Type: application/json
+
+{
+    "email":"predeec63@nu.ac.th",
+    "password":"011161"
+}
